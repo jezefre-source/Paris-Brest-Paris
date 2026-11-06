@@ -1,0 +1,3 @@
+VERSION CORRIGÉE : programme du 02/11/2026 au PBP.
+
+Si une ancienne version est déjà hébergée sur GitHub Pages : remplacer les 5 fichiers par ceux-ci et valider Commit changes. Attendre 1 à 3 minutes, ouvrir l'adresse dans Safari, fermer puis rouvrir l'app. Si l'ancienne version reste en cache, supprimer l'icône de l'écran d'accueil, ouvrir l'adresse dans Safari, puis Ajouter à l'écran d'accueil.
